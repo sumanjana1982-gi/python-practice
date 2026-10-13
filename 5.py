@@ -1,4 +1,4 @@
-
+# Swap two numbers
 a=input("Enter a:")
 b=input("Enter b:")
 print(f'before Swap : a={a} and b={b}')
