@@ -1,3 +1,4 @@
+#Program to find maximum and minimum number in a list
 n=int(input("Enter number of elements:"))
 number=[]
 for i in range(n):
